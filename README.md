@@ -1,6 +1,6 @@
 # 🏴‍☠️ Alterar background da página
 
-Alterador de fundo de um página com javascript. Desafio do Frontend Mentor.
+Alterador de fundo de um página com javascript.
 
 ## ℹ Sobre o projeto 
 Projeto criado para mudança de cor de fundo. Foi criado uma matriz de cores diferentes e, em seguida, adicionei um ouvinte de evento 'click' ao botão. Assim que o botão for clicado, uma cor de fundo diferente aparecerá... Desenvolvido com HTML, CSS e Javascript.
